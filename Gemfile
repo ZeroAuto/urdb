@@ -40,6 +40,8 @@ gem 'simple_form'
 
 gem 'rottentomatoes'
 gem 'figaro'
+gem 'hirb'
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
